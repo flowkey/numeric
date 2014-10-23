@@ -1,7 +1,7 @@
 Package.describe({
   name: 'flowkey:numeric',
   summary: 'Sophisticated numerical computations in pure javascript',
-  version: '1.0.0',
+  version: '1.0.1',
   git: 'https://github.com/flowkey/numeric.git'
 });
 
